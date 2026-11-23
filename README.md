@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi there, I'm Shalini Durai Murugan 👋 
-### AI / ML Researcher & Full-Stack Systems Engineer
+### Software Development Engineer | AI & Machine Learning Engineer
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=620&height=75&lines=Bridging+Deep+Learning+%26+Robust+System+Architecture;Exploring+Quantum-Inspired+Vision+%26+Foundation+Models;Building+Event-Driven%2C+Production-Ready+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Building+Scalable+Software+%26+Intelligent+Systems;Full-Stack+Development+%E2%80%A2+System+Design+%E2%80%A2+Applied+AI;Turning+Complex+Problems+into+Production-Ready+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,12 +19,12 @@
 
 ## 💫 About Me
 
-I am an engineer focused on the intersection of **Applied Artificial Intelligence (Computer Vision, Quantum ML, Foundation Models)** and **Scalable Backend Systems**. 
+I am a software engineer with strong foundations in **Computer Science, System Design, and Applied Machine Learning**. Whether building resilient, high-concurrency backend services or developing intelligent AI-driven applications, I focus on writing clean, scalable, and maintainable code.
 
-- 🔭 **Current Research & Focus:** Fine-tuning Segment Anything Models (SAM ViT-B) for Camouflaged Object Detection and developing Quantum-inspired Deep Learning architectures for medical imaging diagnostics.
-- ⚙️ **Systems Engineering:** Designing high-throughput, event-driven architectures utilizing Flask, Celery, Redis message brokers, MongoDB, and Docker.
-- 🚀 **Continuous Growth:** Active member of the **100xdevs cohort**, constantly honing full-stack, DevOps, and cloud deployment pipelines.
-- 💬 **Ask me about:** Vision Transformers, Medical Image Segmentation, Quantum Image Processing (FRQI + QHED), Microservices, and Distributed Rate Limiting.
+- 💻 **Software Engineering (SDE):** Passionate about backend development, distributed architecture, API design, and asynchronous message processing.
+- 🧠 **Machine Learning (AI/ML):** Experienced in building, fine-tuning, and deploying computer vision models, predictive analytics, and LLM-powered tools.
+- ⚙️ **Core CS Strengths:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management, and Microservices.
+- 🚀 **Continuous Growth:** Active developer in the **100xdevs cohort**, constantly building end-to-end full-stack applications and automated CI/CD pipelines.
 - 📬 **Let's Connect:** [shaliniduraimurugan09@gmail.com](mailto:shaliniduraimurugan09@gmail.com)
 
 ---
@@ -57,32 +57,35 @@ I am an engineer focused on the intersection of **Applied Artificial Intelligenc
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 🤖 Machine Learning, Computer Vision & Data
+### 💻 Languages & Core CS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 💻 Backend, Distributed Systems & Web
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Data Structures](https://img.shields.io/badge/DSA-Computer_Science-4F46E5?style=for-the-badge)
+
+### ⚙️ Backend, Systems & Databases
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ DevOps, Cloud & Development Tools
+### 🤖 Machine Learning, AI & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -94,58 +97,41 @@ I am an engineer focused on the intersection of **Applied Artificial Intelligenc
 
 ---
 
-## 🚀 Featured Engineering & Research Projects
+## 🚀 Featured Projects
 
-Here are some highlights of projects showcasing my work across AI/ML research and scalable software architecture:
+### 💻 Software Development & Systems Engineering (SDE)
 
-### 🔬 [Quantum-Enhanced Deep Learning for Fracture Detection](https://github.com/MysticLoops/Quantum-Enhanced-Deep-Learning-for-X-Ray-Fracture-Detection)
-> **Medical Imaging | Quantum ML | Computer Vision**  
-- Developed a novel quantum-inspired deep learning framework for automated fracture identification in musculoskeletal X-rays.
-- Combined **FRQI (Flexible Representation of Quantum Images)** and **QHED (Quantum Hadamard Edge Detection)** with an optimized ResNet-18 backbone.
-- Utilized two-phase training to preserve critical edge details while mitigating overfitting and maintaining low inference overhead.
-- **Tech:** `Python`, `PyTorch`, `Quantum Image Processing`, `ResNet`, `Medical Diagnostics`
+- **⚡ [ConnectHub — Scalable Event-Driven Messaging Platform](https://github.com/MysticLoops/connecthub-messaging-platform)**
+  - *Tech:* `Python`, `Flask`, `Redis`, `Celery`, `MongoDB`, `Docker`
+  - Architected a full-featured messaging backend with JWT authentication, asynchronous task queues, message brokers, and containerized deployment.
 
----
+- **🛡️ [RateLimiter-as-a-Service](https://github.com/MysticLoops/ratelimiter-as-a-service)**
+  - *Tech:* `JavaScript`, `Node.js`, `System Design`, `Microservices`
+  - Designed a high-throughput, distributed rate limiter service implementing token bucket and sliding window algorithms to safeguard downstream APIs.
 
-### 👁️ [Camouflaged Object Detection (COD) with SAM](https://github.com/MysticLoops/camouflaged-object-detection)
-> **Vision Transformers | Foundation Models | Edge-Aware Segmentation**  
-- Implemented state-of-the-art concealed target segmentation on the COD10K dataset using Meta's **Segment Anything Model (SAM ViT-B)**.
-- Benchmarked baseline zero-shot performance against lightweight edge-aware adapters and full-model parameter fine-tuning.
-- Engineered specialized post-processing morphological refinement to sharpen boundary detection in high-ambiguity environments.
-- **Tech:** `PyTorch`, `SAM ViT-B`, `Computer Vision`, `Transfer Learning`, `Jupyter`
+- **🔄 [Full-Stack Web Application with Automated CI/CD Pipeline](https://github.com/MysticLoops/bcs229-fullstack-app-cicd)**
+  - *Tech:* `Docker`, `Jenkins`, `CI/CD Pipelines`, `HTML/JS`
+  - Built an automated continuous integration and delivery pipeline for containerized web applications, streamlining testing and deployment.
 
 ---
 
-### ⚡ [ConnectHub — Scalable Event-Driven Messaging Platform](https://github.com/MysticLoops/connecthub-messaging-platform)
-> **Distributed Systems | Asynchronous Architecture | Microservices**  
-- Architected a resilient real-time messaging backend powered by **Flask, Celery, and Redis**.
-- Features secure JWT authentication, role-based access, asynchronous task offloading, and reliable notification pipelines.
-- Containerized entire multi-service stack with **Docker** and persistent **MongoDB** document storage.
-- **Tech:** `Python`, `Flask`, `Celery`, `Redis`, `MongoDB`, `Docker`, `REST API`
+### 🤖 Machine Learning & Applied AI (AI/ML)
 
----
+- **👁️ [Camouflaged Object Detection using Vision Transformers](https://github.com/MysticLoops/camouflaged-object-detection)**
+  - *Tech:* `PyTorch`, `SAM ViT`, `Computer Vision`, `Transfer Learning`
+  - Applied Meta's Segment Anything Model (SAM ViT-B) with edge-aware adapters to perform high-accuracy segmentation on complex, concealed visual targets.
 
-### 🌍 [AI Visa Approval Odds Optimizer](https://github.com/MysticLoops/AI-visa-optimizer)
-> **Applied Machine Learning | Explainable AI | Decision Support**  
-- Predictive analytics engine comparing visa issuance probabilities across 4 target jurisdictions.
-- Delivers granular feature importance explaining key factors acting for and against the applicant's profile.
-- Provides personalized strategic action items, cost projections, and expected timeline comparisons.
-- **Tech:** `Python`, `Machine Learning`, `Scikit-Learn`, `Predictive Modeling`
+- **🔬 [Deep Learning for Musculoskeletal Fracture Detection](https://github.com/MysticLoops/Quantum-Enhanced-Deep-Learning-for-X-Ray-Fracture-Detection)**
+  - *Tech:* `Python`, `PyTorch`, `Deep Learning`, `Medical Imaging`
+  - Built an efficient image classification pipeline utilizing quantum-inspired edge feature extraction combined with an optimized ResNet architecture for medical X-ray diagnosis.
 
----
+- **🌍 [AI Visa Odds & Strategy Optimizer](https://github.com/MysticLoops/AI-visa-optimizer)**
+  - *Tech:* `Python`, `Scikit-Learn`, `Predictive Modeling`, `Feature Engineering`
+  - Created a predictive machine learning system analyzing approval odds across multiple jurisdictions with transparent feature importance and actionable insights.
 
-### 🛡️ [RateLimiter-as-a-Service](https://github.com/MysticLoops/ratelimiter-as-a-service)
-> **System Design | API Security | High-Throughput Services**  
-- Modular, low-latency rate limiting service designed to protect downstream APIs against traffic surges and DDoS attacks.
-- Implements token bucket and sliding window counter algorithms for accurate traffic shaping.
-- **Tech:** `JavaScript`, `Node.js`, `System Design`, `Microservices`
-
----
-
-### 📄 [AI PDF Summarizer & Notes Assistant](https://github.com/MysticLoops/pdf-summarizer-app)
-> **Natural Language Processing | GenAI | Productivity Tooling**  
-- Document intelligence tool parsing technical literature and reports into structured, digestible executive summaries and interactive study notes.
-- **Tech:** `Python`, `NLP`, `LLMs`, `Document Ingestion`
+- **📄 [AI-Powered PDF Summarizer & Notes Assistant](https://github.com/MysticLoops/pdf-summarizer-app)**
+  - *Tech:* `Python`, `NLP`, `GenAI`, `Document Processing`
+  - Engineered an intelligent document summarizer that extracts key takeaways and generates structured technical study notes.
 
 ---
 
@@ -158,5 +144,5 @@ Here are some highlights of projects showcasing my work across AI/ML research an
 ---
 
 <div align="center">
-  <sub>Designed & Curated with ❤️ by <a href="https://github.com/MysticLoops">Shalini Durai Murugan</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/MysticLoops">Shalini Durai Murugan</a></sub>
 </div>
